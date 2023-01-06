@@ -1,4 +1,4 @@
-# pedra-papel-tesoura
+# JOGO PEDRA PAPEL OU TESOURA
 Exemplo de rodada jogada...
 
 
